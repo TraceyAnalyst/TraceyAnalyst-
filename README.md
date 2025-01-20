@@ -27,7 +27,7 @@ Welcome to my portfolio, where I showcase my **projects link**
 
 **Connect with me**
 
-. LinkedIn
+. *linkedin*
 
 . Hire me on *UpWork* 
 
