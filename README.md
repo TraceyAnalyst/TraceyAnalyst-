@@ -13,7 +13,7 @@ Hello, I'm Tracey. Data Analyst with experience in data analysis and reporting, 
 **Projects**                    
 ![image](https://github.com/user-attachments/assets/bd57d504-3ce4-4b59-8f2e-fc001bdc1d19)
 
-Welcome to my portfolio, where I showcase my **projects link**
+Welcome to my portfolio, where I showcase my <TraceyAnalyst/Maven_market_Analysis>https://github.com/TraceyAnalyst/Maven_Market_Analysis https://github.com/TraceyAnalyst/Maven_Market_Analysis> 
 
 **Tools**
 
