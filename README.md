@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3376dd2-4dcd-4757-9242-58e04aa0f2d1) **Introducing Myself** 
+![image](https://github.com/user-attachments/assets/b3376dd2-4dcd-4757-9242-58e04aa0f2d1) **Introducing Myself.**  
 
 ![White Clean Minimalist Online Business Facebook Cover](https://github.com/user-attachments/assets/92d906c8-e4ce-4777-a359-9f07d7568657)
 
