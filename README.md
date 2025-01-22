@@ -27,8 +27,7 @@ Welcome to my portfolio, where I showcase my <TraceyAnalyst/Maven_market_Analysi
 
 **Connect with me**
 
-. *linkedin*
+. **linkedin** https://www.linkedin.com/in/teresiah-kiarie-609b65229/
 
-. Hire me on *UpWork* 
 
 
